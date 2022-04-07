@@ -9,7 +9,7 @@ public class test {
     @RequestMapping("test")
     public String test1(){
 
-        System.out.println("success");
+        System.out.println("successdd");
 
         return "success.html";
 
